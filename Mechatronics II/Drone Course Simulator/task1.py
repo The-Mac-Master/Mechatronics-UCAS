@@ -19,8 +19,10 @@ drone.forward(100) #Move drone forward 100 Meters
 drone.down(2) #Move drone down 2 Meters
 drone.forward(100) #Move drone forward 100 Meters
 drone.down(2) #Move drone down 2 Meters
-drone.forward(150) #Move drone forward 100 Meters
+drone.forward(250) #Move drone forward 250 Meters
 drone.rotate_ccw(90) #Rotate drone counter-clockwise 90 Degrees
-drone.forward(300) #Move drone forward 300 Meters
+drone.forward(250) #Move drone forward 300 Meters
+drone.rotate_ccw(90) #Rotate drone counter-clockwise 90 Degrees
+drone.forward(100) #Move drone forward 100 Meters
 
 drone.launch() #Launch drone
